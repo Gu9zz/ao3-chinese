@@ -20,6 +20,7 @@ Zack Fair=扎克斯·菲尔
 Jenova:杰诺瓦
 Rufus Shinra=鲁弗斯·神罗
 Professor Hojo:宝条博士
+Hojo:宝条
 Reno:雷诺
 Rude:路德
 Elena:伊莲娜
