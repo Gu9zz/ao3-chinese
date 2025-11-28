@@ -1,5 +1,5 @@
 维护者:Gu9zz
-版本号:1.0.1
+版本号:1.0.2
 更新时间:2025-11-28
 
 词条
@@ -11,7 +11,7 @@ Kim Dokja=金 独子
 Han Sooyoung=韩 秀英
 Yoo Sangah=刘 尚雅
 Lee Jihye=李 智慧
-Lee Hyunsung=李 贤成
+Lee Hyunsung=李 贤诚
 Jung Heewon=郑 熙媛
 Lee Gilyoung=李 吉永
 Shin Yoosung=申 流承
@@ -19,6 +19,8 @@ Lee Seolhwa=李 雪花
 Yoo Mia=刘 美雅
 Kim Namwoon=金 南云
 Jang Hayoung=张 夏景
+Han Myungoh=韩 明武
+Lee Sookyung=李 秀卿
 Biyoo=譬喻
 Bihyung=鼻荆
 Uriel:乌列尔
@@ -44,6 +46,19 @@ Queen of the Darkest Spring:最晦暗的春日女王
 regressor:回归者
 sunfish:翻车鱼
 Kim Dokja's Company:金独子集团
+Three Ways to Survive in a Ruined World：在灭亡的世界里存活的三种方法
+Ways of Survival：灭活法
+Fourth Wall：第四面墙
+Star Stream：星流放送
+Dokkaebi：鬼怪
+Goblin：鬼怪
+Constellation：星座
+Nebula：星云
+Incarnation：化身
+Main Scenario：主线任务
+Sub Scenario：副本任务
+Hidden Scenario：隐藏任务
+Sage's Eye：贤者之眼
 
 禁翻词条
 Coin
