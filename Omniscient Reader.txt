@@ -1,0 +1,46 @@
+维护者:Gu9zz
+版本号:1.0.0
+更新时间:2025-11-28
+
+词条
+
+//角色
+Yoo Jonghyuk=刘 众赫
+Kim Dokja=金 独子
+Han Sooyoung=韩 秀英
+Yoo Sangah=刘 尚雅
+Lee Jihye=李 智慧
+Lee Hyunsung=李 贤成
+Jung Heewon=郑 熙媛
+Lee Gilyoung=李 吉永
+Shin Yoosung=申 流承
+Lee Seolhwa=李 雪花
+Yoo Mia=刘 美雅
+Kim Namwoon=金 南云
+Jang Hayoung=张 夏景
+Biyoo=譬喻
+Bihyung=鼻荆
+Uriel:乌列尔
+Anna Croft=安娜 卡芙特
+Gong Pildu=孔 弼斗
+Min Jiwon=闵 智媛
+Cheon Inho=千 仁浩
+
+//星座名
+Secretive Plotter:隐秘的谋略家
+Bottom Most Ancient Dream:最古老的梦
+Demon-like Judge of Fire:恶魔般的火之审判官
+Prisoner of the Golden Headband:金箍的囚徒
+Abyssal Black Flame Dragon:深渊黑焰龙
+Father of the Rich Night:富裕夤夜之父
+Queen of the Darkest Spring:最晦暗的春日女王
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+regress:回归
+regressor:回归者
+sunfish:翻车鱼
+Kim Dokja's Company:金独子集团
+
+禁翻词条
+Coin
