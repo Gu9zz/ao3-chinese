@@ -6,6 +6,7 @@
 
 //角色
 Yoo Joonghyuk=刘 众赫
+Yoo Jonghyuk=刘 众赫
 Kim Dokja=金 独子
 Han Sooyoung=韩 秀英
 Yoo Sangah=刘 尚雅
