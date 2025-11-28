@@ -1,0 +1,146 @@
+维护者:Gu9zz
+版本号：1.0.11
+更新时间：2025-10-24
+
+词条
+
+// 主要角色
+Sephiroth:萨菲罗斯
+Cloud Strife=克劳德·斯特莱夫
+Tifa Lockhart=蒂法·洛克哈特
+Aeris Gainsborough=爱丽丝·盖恩斯巴勒
+Aerith Gainsborough=爱丽丝·盖恩斯巴勒
+Barret Wallace=巴雷特·华莱士
+Red XIII:赤红十三
+Yuffie Kisaragi=尤菲·如月
+Vincent Valentine=文森特·瓦伦丁
+Cid Highwind=希德·海温德
+Cait Sith=凯特·西
+Zack Fair=扎克斯·菲尔	
+Jenova:杰诺瓦
+Rufus Shinra=鲁弗斯·神罗
+Professor Hojo:宝条博士
+Reno:雷诺
+Rude:路德
+Elena:伊莲娜
+Tseng:曾
+Marlene Wallace=玛莲·华莱士
+Lucrecia Crescent:鲁克 蕾西亚
+Dyne:多因
+
+//组织名
+Deepground：深层禁地
+Avalanche：雪崩
+
+//地区装备等
+Edge：边缘城
+Kalm：卡姆镇
+Cosmo Canyon：星陨峡谷
+Costa Del Sol：阳光海岸
+Forgotten City：忘却之都
+Fort Condor：兀鹰堡垒
+Honey Bee:蜜蜂公馆
+Icicle Inn：冰雪村
+Kalm：卡姆镇
+Mideel：温泉村
+Sector：米德加下层街区
+Shinra Mansion：神罗公馆
+Northern Cave:北大空洞
+Northern Crater:北大空洞
+Wall Market：围墙街
+Weapon：星球武器
+Fenrir：芬里尔（摩托车）
+Ether：以太
+Greens:陆行鸟蔬菜
+Plate：米德加圆盘
+Potion：治疗剂（回血药）
+Ruby Weapon：红宝石（星球武器）
+Sapphire Weapon：蓝宝石（星球武器）
+Diamond Weapon：钻石武器（星球武器）
+Emerald Weapon：绿宝石（星球武器）
+Enemy Skill：青魔法/敌之技（魔石）
+Seal：封印（魔石）
+Sense：洞察（魔石）
+Morph：变化（魔石）
+Destruct：毁灭（魔石）
+Mime：模仿（魔石）
+Ultima:创世（魔石）
+SOLDIER：（神罗）战士
+
+通用词条
+
+//专有名词
+Ancient：古代种
+Bangle：手镯
+Bolt：雷魔法
+Braver：英勇斩击
+Buggy：越野车
+Buster Sword：毁灭剑
+Calamity：灾厄
+Cerberus：地狱犬
+Cetra：赛特拉
+Chocobo：陆行鸟
+Chocobo Sage：陆行鸟贤者
+Chaos：卡欧斯/混沌
+Cross Slash：凶斩
+Da-Chao：五台佛像
+Dark Nation：路法斯的狗
+Degradation：劣化
+Don Corneo：古留根尾
+First Tsurugi：六式
+Fusion Sword：组合剑
+Gaia：盖娅
+Galian Beast:迦瑞安野兽/加里安野兽
+Gelnika:格尔尼卡飞空艇
+Geostigma:星痕症
+Gi:义族
+Gold Saucer:金碟
+Highwind:飞空艇Highwind号
+Hyper：兴奋剂
+Jenova：杰诺瓦
+Keystone：楔石
+Kupo：库啵
+Kweh：咕耶
+Life Stream：生命之流
+Limit Break：极限突破
+Loveless：《无爱》
+Maiden's Kiss：少女之吻
+Mako：魔晄
+Mako Reactor：魔晄炉
+Materia：魔晶石
+Masamune：正宗
+Meteor：陨石
+Meteorain：陨石乱击
+Meterofall：陨石事件
+Midgar：米德加
+Minerva：密涅瓦/女神
+Mithril：秘银
+Octaslash：八刀一闪
+Omnislash：超究武神霸斩
+Pagoda of the Five Mighty Gods：五台五圣
+Phoenix Down：凤凰尾羽
+PHS：通讯器
+Promised Land：应许之地
+Protomateria：古代魔晶石
+Rapier：赤剑
+Remedy：万能药
+Remnants：思念体
+Reunion：再融合
+Ribbon：缎带
+Shinra：神罗
+Sister Ray：朱诺魔晄炮
+Summon：召唤兽/召唤魔石
+Tiny Bronco：小野马飞机
+Tonberry;提灯怪/冬贝利
+Touch Me:青蛙怪
+Tsviets:地狱犬的挽歌中反派高层团体
+Tranquilizer:镇定剂
+Trooper:（神罗）士兵【杂兵】
+Ultimate Weapon：创世武器
+W.R.O：世界再生组织
+Wutai：五台
+Zolom：米德加沼泽大蛇
+
+禁翻词条
+
+Gil 货币名称（元）
