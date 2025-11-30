@@ -1,6 +1,6 @@
 维护者:Gu9zz
-版本号：1.0.1
-更新时间：2025-10-24
+版本号：1.0.2
+更新时间：2025-11-30
 
 词条
 
@@ -50,7 +50,7 @@ Northern Cave:北大空洞
 Northern Crater:北大空洞
 Wall Market：围墙街
 Weapon：星球武器
-Fenrir：芬里尔（摩托车）
+Fenrir：芬里尔
 Ether：以太
 Greens:陆行鸟蔬菜
 Plate：米德加圆盘
@@ -59,7 +59,7 @@ Ruby Weapon：红宝石（星球武器）
 Sapphire Weapon：蓝宝石（星球武器）
 Diamond Weapon：钻石武器（星球武器）
 Emerald Weapon：绿宝石（星球武器）
-Enemy Skill：青魔法/敌之技（魔石）
+Enemy Skill：青魔法（魔石）
 Seal：封印（魔石）
 Sense：洞察（魔石）
 Morph：变化（魔石）
@@ -67,11 +67,12 @@ Destruct：毁灭（魔石）
 Mime：模仿（魔石）
 Ultima:创世（魔石）
 SOLDIER：（神罗）战士
+Ancient：古代种
+Chaos：卡欧斯/混沌
 
 通用词条
 
 //专有名词
-Ancient：古代种
 Bangle：手镯
 Bolt：雷魔法
 Braver：英勇斩击
@@ -82,7 +83,6 @@ Cerberus：地狱犬
 Cetra：赛特拉
 Chocobo：陆行鸟
 Chocobo Sage：陆行鸟贤者
-Chaos：卡欧斯/混沌
 Cross Slash：凶斩
 Da-Chao：五台佛像
 Dark Nation：路法斯的狗
@@ -91,7 +91,7 @@ Don Corneo：古留根尾
 First Tsurugi：六式
 Fusion Sword：组合剑
 Gaia：盖娅
-Galian Beast:迦瑞安野兽/加里安野兽
+Galian Beast:迦瑞安野兽
 Gelnika:格尔尼卡飞空艇
 Geostigma:星痕症
 Gi:义族
@@ -132,7 +132,7 @@ Shinra：神罗
 Sister Ray：朱诺魔晄炮
 Summon：召唤兽/召唤魔石
 Tiny Bronco：小野马飞机
-Tonberry;提灯怪/冬贝利
+Tonberry：提灯怪/冬贝利
 Touch Me:青蛙怪
 Tsviets:地狱犬的挽歌中反派高层团体
 Tranquilizer:镇定剂
@@ -144,4 +144,7 @@ Zolom：米德加沼泽大蛇
 
 禁翻词条
 
-Gil 货币名称（元）
+Gil
+gil
+gils
+Gils
