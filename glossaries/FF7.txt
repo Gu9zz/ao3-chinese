@@ -1,6 +1,6 @@
 维护者:Gu9zz
-版本号：1.0.2
-更新时间：2025-11-30
+版本号：1.0.3
+更新时间：2025-12-01
 
 词条
 
@@ -16,9 +16,8 @@ Yuffie Kisaragi=尤菲·如月
 Vincent Valentine=文森特·瓦伦丁
 Cid Highwind=希德·海温德
 Cait Sith=凯特·西
-Zack Fair=扎克斯·菲尔	
-Jenova:杰诺瓦
-Rufus Shinra=鲁弗斯·神罗
+Zack Fair=扎克斯·菲尔
+Rufus Shinra=路法斯·神罗
 Professor Hojo:宝条博士
 Hojo:宝条
 Reno:雷诺
@@ -28,12 +27,18 @@ Tseng:曾
 Marlene Wallace=玛莲·华莱士
 Lucrecia Crescent:鲁克 蕾西亚
 Dyne:多因
+Roche:罗榭
+Cissnei:希斯内
+Gast Faremis=加斯特·法瑞米斯
+Broad=布洛德
+Chadley=查德利
 
 //组织名
 Deepground：深层禁地
 Avalanche：雪崩
 
 //地区装备等
+Midgar：米德加
 Edge：边缘城
 Kalm：卡姆镇
 Cosmo Canyon：星陨峡谷
@@ -66,9 +71,10 @@ Morph：变化（魔石）
 Destruct：毁灭（魔石）
 Mime：模仿（魔石）
 Ultima:创世（魔石）
-SOLDIER：（神罗）战士
 Ancient：古代种
 Chaos：卡欧斯/混沌
+Minerva：密涅瓦/女神
+Gaia：盖娅
 
 通用词条
 
@@ -90,7 +96,6 @@ Degradation：劣化
 Don Corneo：古留根尾
 First Tsurugi：六式
 Fusion Sword：组合剑
-Gaia：盖娅
 Galian Beast:迦瑞安野兽
 Gelnika:格尔尼卡飞空艇
 Geostigma:星痕症
@@ -113,8 +118,6 @@ Masamune：正宗
 Meteor：陨石
 Meteorain：陨石乱击
 Meterofall：陨石事件
-Midgar：米德加
-Minerva：密涅瓦/女神
 Mithril：秘银
 Octaslash：八刀一闪
 Omnislash：超究武神霸斩
@@ -132,11 +135,12 @@ Shinra：神罗
 Sister Ray：朱诺魔晄炮
 Summon：召唤兽/召唤魔石
 Tiny Bronco：小野马飞机
-Tonberry：提灯怪/冬贝利
+Tonberry：提灯怪
 Touch Me:青蛙怪
 Tsviets:地狱犬的挽歌中反派高层团体
 Tranquilizer:镇定剂
-Trooper:（神罗）士兵【杂兵】
+Trooper:（神罗）士兵
+SOLDIER：（神罗）战士
 Ultimate Weapon：创世武器
 W.R.O：世界再生组织
 Wutai：五台
@@ -146,5 +150,4 @@ Zolom：米德加沼泽大蛇
 
 Gil
 gil
-gils
-Gils
+GIL
