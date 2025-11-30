@@ -1,6 +1,6 @@
 维护者:Gu9zz
-版本号:1.0.2
-更新时间:2025-11-28
+版本号:1.0.3
+更新时间:2025-11-30
 
 词条
 
@@ -24,11 +24,17 @@ Lee Sookyung=李 秀卿
 Biyoo=譬喻
 Bihyung=鼻荆
 Uriel:乌列尔
+Persephone=珀尔塞福涅
+Hades=哈迪斯
+Sun Wukong=孙 悟空
+Asmodeus:阿斯莫德
 Anna Croft=安娜 卡芙特
 Gong Pildu=孔 弼斗
 Min Jiwon=闵 智媛
+Han Donghoon=韩 东勋
 Cheon Inho=千 仁浩
 Lee Hakhyun=李 鹤翾
+Yi Sunsin=李 舜臣
 
 //星座名
 Secretive Plotter:隐秘的谋略家
@@ -59,6 +65,17 @@ Main Scenario：主线任务
 Sub Scenario：副本任务
 Hidden Scenario：隐藏任务
 Sage's Eye：贤者之眼
+Hand-to-Hand Combat：徒手搏斗
+Lie Detection:测谎
+
+//地名
+Demon Realm：魔界
+Constellation Banquet Hall：星座宴会厅
+Han River：汉江
+Ground Rat's Treasure Trove：地鼠宝库
+Edge of Darkness：黑暗边缘
 
 禁翻词条
 Coin
+Coins
+coins
